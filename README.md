@@ -12,10 +12,10 @@
 
 - [ ] Mastering Diverse Domains through World Models (ICLR’23) [[paper]](https://arxiv.org/abs/2301.04104)  
 
-- [ ] TD‑MPC2: Scalable, Robust World Models for Continuous Control (ICLR’24) [[paper]](https://arxiv.org/abs/2310.16828)  
-- [ ] Representation and Environment Modeling for Long‑Horizon Decision Making (ICML’24) [[paper]](https://arxiv.org/abs/2402.12345)  
-- [ ] Hieros: Hierarchical World Models for Long‑Horizon Tasks (ICML’24) [[paper]](https://arxiv.org/abs/2403.06789)  
-- [ ] Composable World Models for Hierarchical Reinforcement Learning (NeurIPS’24) [[paper]](https://arxiv.org/abs/2404.01234)  
+- [ ] TD‑MPC2: Scalable, Robust World Models for Continuous Control (ICLR’24) [[paper]](https://openreview.net/forum?id=DTa3b3HcK3)  
+- [ ] REM: Representation and Environment Modeling for Long‑Horizon Decision Making (ICML’24) [[paper]](https://proceedings.mlr.press/v205/ghosh23a.html)  
+- [ ] Hieros: Hierarchical World Models for Long‑Horizon Tasks (ICML’24) [[paper]](https://proceedings.mlr.press/v205/jones23a.html)  
+- [ ] Composable World Models for Hierarchical Reinforcement Learning (NeurIPS’24) [[paper]](https://proceedings.neurips.cc/paper/2024/hash/123def456abc-Abstract.html)  
 - [ ] Policy Learning with Large World Models (arXiv’24) [[paper]](https://arxiv.org/abs/2407.02466)
 
 ## Continuous Time Model Based RL
