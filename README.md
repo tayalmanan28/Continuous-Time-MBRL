@@ -11,3 +11,11 @@
 - [ ] MOReL: Model-Based Offline Reinforcement Learning (NeurIPS'20) [[paper]](https://arxiv.org/abs/2005.05951)
 - [ ] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning (NeurIPs'24)[[website]](https://qiwang067.github.io/coworld)
 - [ ] Offline Reinforcement Learning with Causal Structured World Models (Arxiv)[[paper]](https://arxiv.org/abs/2206.01474)
+
+
+## Safe Model Based RL
+
+- [ ] Constrained Model-based Reinforcement Learning with Robust Cross-Entropy Method [[paper]](https://arxiv.org/abs/2010.07968)
+- [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
+- [ ] Model-based Safe Deep Reinforcement Learning via a Constrained Proximal Policy Optimization Algorithm [[paper]](https://arxiv.org/abs/2210.07573)
+- [ ] Safe Model-Based Reinforcement Learning with an Uncertainty-Aware Reachability Certificate [[paper]](https://arxiv.org/abs/2210.07553)
