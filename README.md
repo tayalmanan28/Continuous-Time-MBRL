@@ -12,11 +12,9 @@
 
 - [ ] Mastering Diverse Domains through World Models (ICLR’23) [[paper]](https://arxiv.org/abs/2301.04104)  
 
-- [ ] TD‑MPC2: Scalable, Robust World Models for Continuous Control (ICLR’24) [[paper]](https://openreview.net/forum?id=DTa3b3HcK3)  
-- [ ] REM: Representation and Environment Modeling for Long‑Horizon Decision Making (ICML’24) [[paper]](https://proceedings.mlr.press/v205/ghosh23a.html)  
-- [ ] Hieros: Hierarchical World Models for Long‑Horizon Tasks (ICML’24) [[paper]](https://proceedings.mlr.press/v205/jones23a.html)  
-- [ ] Composable World Models for Hierarchical Reinforcement Learning (NeurIPS’24) [[paper]](https://proceedings.neurips.cc/paper/2024/hash/123def456abc-Abstract.html)  
-- [ ] Policy Learning with Large World Models (arXiv’24) [[paper]](https://arxiv.org/abs/2407.02466)
+- [ ] TD-MPC2: Scalable, Robust World Models for Continuous Control (ICLR’24) [[paper]](https://arxiv.org/abs/2310.16828)
+- [ ] Hieros: Hierarchical Imagination on Structured State Space Sequence World Models (ICML’24) [[paper]](https://arxiv.org/abs/2310.05167)
+- [ ] PWM: Policy Learning with Multi-Task World Models (arXiv’24) [[paper]](https://arxiv.org/abs/2407.02466)
 
 ## Continuous Time Model Based RL
 
@@ -24,7 +22,6 @@
 - [ ] Continuous-Time Model-Based Reinforcement Learning (ICML'21) [[paper]](https://proceedings.mlr.press/v139/yildiz21a/yildiz21a.pdf)
 - [ ] Efficient Exploration in Continuous-time Model-based Reinforcement Learning (NeurIPS'23) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/836012122f3de08aeeae67369b087964-Paper-Conference.pdf)
 - [ ] A Random Measure Approach to Reinforcement Learning in Continuous Time [[paper]](https://arxiv.org/pdf/2409.17200)
-- [ ] 
 
 ## Model Based Offline RL
 
