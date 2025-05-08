@@ -28,13 +28,16 @@
 - [ ] MOReL: Model-Based Offline Reinforcement Learning (NeurIPS'20) [[paper]](https://arxiv.org/abs/2005.05951)
 - [ ] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning (NeurIPs'24)[[website]](https://qiwang067.github.io/coworld)
 - [ ] Offline Reinforcement Learning with Causal Structured World Models (Arxiv)[[paper]](https://arxiv.org/abs/2206.01474)
-
+- [ ] Offline Model‑Based Reinforcement Learning with Anti‑Exploration (arXiv’24) [[paper]](https://arxiv.org/abs/2408.10713)
 
 ## Safe Model Based RL
 
-- [ ] Constrained Model-based Reinforcement Learning with Robust Cross-Entropy Method (Arxiv) [[paper]](https://arxiv.org/abs/2010.07968)
+- [ ] Safe Model‑based Reinforcement Learning with Stability Guarantees (NeurIPS’17) [[paper]](https://arxiv.org/abs/1705.08551)  
+- [ ] Safe Model‑Based Reinforcement Learning for Systems with Parametric Uncertainties (arXiv’20)
+- [ ] Constrained Model-based Reinforcement Learning with Robust Cross-Entropy Method (arxiv'20) [[paper]](https://arxiv.org/abs/2010.07968)
 - [ ] Model-based Reinforcement Learning with Provable Safety Guarantees via Control Barrier Functions (ICRA'21) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561253)
 - [ ] Model-based Safe Deep Reinforcement Learning via a Constrained Proximal Policy Optimization Algorithm (NeurIPS'22) [[paper]](https://arxiv.org/abs/2210.07573)
 - [ ] Safe Model-Based Reinforcement Learning with an Uncertainty-Aware Reachability Certificate (TASE'23) [[paper]](https://arxiv.org/abs/2210.07553)
+- [ ] Safe Exploration in Model‑based Reinforcement Learning using Control Barrier Functions (Automatica’23) [[paper]](https://arxiv.org/abs/2104.08171)
 - [ ] Model-Based Safe Reinforcement Learning With Time-Varying Constraints Applications to Intelligent Vehicles (TIE'24) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381514)
 - [ ] A Physics-Informed Machine Learning Framework for Safe and Optimal Control of Autonomous Systems (ICML'25) [[paper]](https://arxiv.org/pdf/2502.11057)
